@@ -1,24 +1,8 @@
-# Modul9
-
-#Array1
-![image](https://cloud.githubusercontent.com/assets/22124998/22396555/f37a05ee-e58e-11e6-811f-78e327d6142f.png)
-
-#Array
-![image](https://cloud.githubusercontent.com/assets/22124998/22396562/1d3af406-e58f-11e6-8d24-c070352d245d.png)
-
-#Array2
-![image](https://cloud.githubusercontent.com/assets/22124998/22396565/35077866-e58f-11e6-85ff-1ae51b0edd1e.png)
-
-#testarraydua
-![image](https://cloud.githubusercontent.com/assets/22124998/22396568/4e3bdc32-e58f-11e6-82f1-1c647f8afd80.png)
-
-#Pemilihan dokter
-![image](https://cloud.githubusercontent.com/assets/22124998/22396572/64a8725a-e58f-11e6-9944-520df14b0a4a.png)
-![image](https://cloud.githubusercontent.com/assets/22124998/22396573/6d57b032-e58f-11e6-8084-a82f222b5a6a.png)
-
-#Praktikum1
-![image](https://cloud.githubusercontent.com/assets/22124998/22396575/7dec1cb2-e58f-11e6-9375-19119c060a81.png)
-![image](https://cloud.githubusercontent.com/assets/22124998/22396576/83003288-e58f-11e6-8413-579a02cd5dc6.png)
-
-#Praktikum2
-![p2](https://cloud.githubusercontent.com/assets/22124998/22404585/4c281866-e666-11e6-9625-ef6de9abdf86.JPG)
+#ATMGUA
+![1](https://cloud.githubusercontent.com/assets/22124998/22765842/fc1b5fe4-eea4-11e6-8914-dfc0eab642cc.JPG)
+![2](https://cloud.githubusercontent.com/assets/22124998/22765841/fc1b7998-eea4-11e6-99e9-7a4323e6ebc5.JPG)
+![3](https://cloud.githubusercontent.com/assets/22124998/22765840/fc152b60-eea4-11e6-8913-aab212589bea.JPG)
+![4](https://cloud.githubusercontent.com/assets/22124998/22765839/fc14ceae-eea4-11e6-98b4-a18238d57d8b.JPG)
+![image](https://cloud.githubusercontent.com/assets/22124998/22765914/50673a00-eea5-11e6-8ad6-29e54e17a72a.png)
+![image](https://cloud.githubusercontent.com/assets/22124998/22765934/6ddc14d4-eea5-11e6-90cd-9706acd5bcb1.png)
+![image](https://cloud.githubusercontent.com/assets/22124998/22765959/8bbb7eae-eea5-11e6-9066-1a373df9357d.png)
